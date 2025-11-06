@@ -127,7 +127,7 @@ export function ContactSection() {
               <p className="mb-4 md:mb-6 text-sm md:text-base text-primary-foreground/90 text-balance">
                 Descubre cómo AirPharma puede transformar la logística médica en tu institución
               </p>
-              <Button size="lg" variant="secondary" className="w-full font-semibold">
+              <Button size="lg" variant="secondary" className="w-full font-semibold" onClick ='https://wa.me/qr/INX53ALYEII4O1'>
                 Agendar demo
               </Button>
             </Card>
