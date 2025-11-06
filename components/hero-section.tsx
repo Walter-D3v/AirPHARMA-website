@@ -17,7 +17,7 @@ export function HeroSection() {
       id="inicio"
       className="relative min-h-[85vh] md:min-h-[90vh] flex items-center justify-center overflow-hidden bg-gradient-to-br from-primary/5 via-background to-accent/5 pt-14 md:pt-16"
     >
-      <div className="absolute inset-0 bg-[url('/medical-drone-flying-over-rural-landscape.jpg')] bg-cover bg-center opacity-10" />
+      <div className="absolute inset-0 bg-[url('/drones.jpg')] bg-cover bg-center opacity-10" />
 
       <div className="absolute inset-0">
         {[...Array(20)].map((_, i) => (
