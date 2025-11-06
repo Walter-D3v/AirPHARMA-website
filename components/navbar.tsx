@@ -113,7 +113,7 @@ export function Navbar() {
                   <DropdownMenuItem asChild>
                     <a
                       href="#quienes-somos"
-                      className="cursor-pointer w-full block py-2 px-3 rounded transition-colors hover:bg-primary/10 hover:text-primary"
+                      className="cursor-pointer w-full block py-2 px-3 rounded transition-colors hover:bg-blue/10 hover:text-primary"
                     >
                       Sobre Nosotros
                     </a>
