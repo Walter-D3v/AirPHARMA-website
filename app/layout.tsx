@@ -20,6 +20,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es">
+      <head>
+        <link rel="icon" href="/AirPharma_logo.png" />
+      </head>
       <body className={`${inter.className} font-sans antialiased`}>
         {children}
         <Analytics />
